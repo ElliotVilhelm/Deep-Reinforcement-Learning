@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning with Pytorch
+# Deep Reinforcement Learning with PyTorch
 This repository is built for me to track and document what I learn and build using Maxim Lapan's Book
 "Deep Reinforcement Learning Hands-On".
 
