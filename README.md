@@ -4,12 +4,12 @@ Working through Maxim Lapan's Book "Deep Reinforcement Learning Hands-On".
 ## Sections
 I. [Cross-Entropy Method](https://github.com/ElliotVilhelm/Deep-Reinforcement-Learning#cross-entropy-method)
 
-&nbsp;&nbsp;&nbsp;&nbsp;A.[Cart Pole](https://github.com/ElliotVilhelm/Deep-Reinforcement-Learning#cross-entropy-method)
+&nbsp;&nbsp;&nbsp;&nbsp;A. [Cart Pole](https://github.com/ElliotVilhelm/Deep-Reinforcement-Learning#cart-pole)
 
 II. Deep Q Networks
 
 ## Cross Entropy Method
-### CartPole
+### Cart Pole
 #### Execution
 ```
 python3 -m CrossEntropyMethod.cart_pole
